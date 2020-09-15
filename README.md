@@ -1,7 +1,7 @@
 # JetBrains-Academy-Projects
 Python Developer Course
 
-- Simple Chat Bot
+*Simple Chat Bot
 - Zookeper
 - Hangman
 - Tic Tac Toe
