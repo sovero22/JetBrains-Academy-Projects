@@ -1,8 +1,8 @@
 # JetBrains-Academy-Projects
 ## Python Developer Course
 
-- Simple Chat Bot
-- Zookeper
+### Simple Chat Bot
+### Zookeper
 - Hangman
 - Tic Tac Toe
 - Coffee Machine
