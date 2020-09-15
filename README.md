@@ -2,7 +2,6 @@
 Python Developer Course
 
 - Simple Chat Bot
-
 - Zookeper
 - Hangman
 - Tic Tac Toe
