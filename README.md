@@ -9,4 +9,5 @@
 - ###### Numeric Matrix Processor
 - ###### Simple Banking System
 
-  `SQL`
+`Luhn Algorithm`
+`SQL`
