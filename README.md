@@ -7,7 +7,10 @@
 - ###### Tic Tac Toe
 - ###### Coffee Machine
 - ###### Numeric Matrix Processor
+
+  `Recursion`
+
 - ###### Simple Banking System
 
-`Luhn Algorithm`
-`SQL`
+  `SQL`
+  `Luhn Algorithm`
