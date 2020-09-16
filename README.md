@@ -1,5 +1,5 @@
 # JetBrains-Academy-Projects
-Python Developer Course
+**Python Developer Course**
 
 ###### Simple Chat Bot
 ###### Zookeper
