@@ -2,7 +2,7 @@
 **Python Developer Course**
 
 - ###### Simple Chat Bot
-- ###### Zookeper
+- Zookeper
 - ###### Hangman
 - ###### Tic Tac Toe
 - ###### Coffee Machine
