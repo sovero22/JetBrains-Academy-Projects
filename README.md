@@ -1,49 +1,49 @@
 # JetBrains-Academy-Projects
 **Python Developer Course**
 
-- ###### Simple Chat Bot
+- #### Simple Chat Bot
 
   `Functions`
   `Loops`
 
-- ###### Zookeper
+- #### Zookeper
 
   `Lists`
   `Boolean Logic`
   `Loops`
 
-- ###### Hangman
+- #### Hangman
 
   `Functions`
   `Conditionals`
   `Loops`
   
-- ###### Tic Tac Toe
+- #### Tic Tac Toe
 
   `Functions`
   `Conditionals`
   `Data Structures`
 
-- ###### Coffee Machine
+- #### Coffee Machine
 
   `OOP`
   `Loops`
   `Conditionals`
   `Lists`
 
-- ###### Numeric Matrix Processor
+- #### Numeric Matrix Processor
 
   `OOP`
   `Recursion`
   `List Comprehension`
 
-- ###### Simple Banking System
+- #### Simple Banking System
 
   `SQL`
   `Functions`
   `Luhn Algorithm`
 
-- ###### To-Do List
+- #### To-Do List
 
   `SQL`
   `Loops`
